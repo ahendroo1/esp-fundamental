@@ -1,7 +1,5 @@
 # **Workshop IoT with ESP8266**
 
-![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
-
 # *__0. Initial Setup__*
 
   There are several development environments that can be used to program the ESP8266. The ESP8266 community created an add-on for the Arduino IDE (_Integrated Development Environment_) that allows you to program the ESP8266 using Arduino IDE and its programming language. So, please follow these steps before the workshop is being held:
@@ -71,12 +69,3 @@
   9.|ESP8266 & Thinger.io|_**[click here](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/9_ESP8266_Thinger)**_
 
 #
-
-#### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
-
-[Facebook](https://www.facebook.com/lintangbagus) | 
-[Twitter](https://twitter.com/Lintang_Wisesa) |
-[Google+](https://plus.google.com/u/0/+LintangWisesa1) |
-[Youtube](https://www.youtube.com/user/lintangbagus) | 
-:octocat: [GitHub](https://github.com/LintangWisesa) |
-[Hackster](https://www.hackster.io/lintangwisesa)
